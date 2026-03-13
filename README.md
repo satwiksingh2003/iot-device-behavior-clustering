@@ -20,3 +20,12 @@ After downloading, place it in:
 data/CICIOT23/train
 data/CICIOT23/test
 data/CICIOT23/validation
+## How to Run
+
+Train the model:
+
+python train_cluster_model.py
+
+Predict device behavior cluster:
+
+python predict_cluster.py
