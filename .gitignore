@@ -1,13 +1,5 @@
-# Ignore dataset folder
+# Ignore dataset folder only
 data/
-
-# Ignore large dataset files
-*.csv
-*.zip
-*.gz
-
-# Ignore trained models
-*.pkl
 
 # Ignore python cache
 __pycache__/
